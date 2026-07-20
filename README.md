@@ -58,5 +58,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Anvita Rai**, also known as **Data With Baraa**. I’m an IT professional currently working in MuleSoft trying to navigate through the world of data engineering.
+Hi there! I'm **Anvita Rai**. I’m an IT professional currently working in MuleSoft trying to navigate through the world of data engineering.
 
